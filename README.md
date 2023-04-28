@@ -1,5 +1,5 @@
 ## E, ai! Beleza? Eu sou o Mateus Gambaro!
-###🚧 Engenheiro Civil ➡️ Desenvolvedor Full Stack 🚀 |+2 anos de experiência em programação | Aprendiz insaciável 🧠 | Habilidades: JS, TS, Node, Nest, React, Next, PostgreSQL, MySQL, Docker, HTML, CSS e mais 🛠️
+🚧 Engenheiro Civil ➡️ Desenvolvedor Full Stack 🚀 |+2 anos de experiência em programação | Aprendiz insaciável 🧠 | Habilidades: JS, TS, Node, Nest, React, Next, PostgreSQL, MySQL, Docker, HTML, CSS e mais 🛠️
  <div>
   <a href="https://github.com/mateusgambaro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateusgambaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
