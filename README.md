@@ -1,4 +1,5 @@
 ## E, ai! Beleza? Eu sou o Mateus Gambaro!
+###🚧 Engenheiro Civil ➡️ Desenvolvedor Full Stack 🚀 |+2 anos de experiência em programação | Aprendiz insaciável 🧠 | Habilidades: JS, TS, Node, Nest, React, Next, PostgreSQL, MySQL, Docker, HTML, CSS e mais 🛠️
  <div>
   <a href="https://github.com/mateusgambaro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateusgambaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -7,14 +8,18 @@
 <div style="display: inline_block"><br>
  <img align="center" alt="BASH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="REDUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <img align="center" alt="NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  <img align="center" alt="DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="right" alt="Mateus-Gif" width="200px" src="https://media.giphy.com/media/8cH6vYI34UiPNEb57w/giphy.gif">
+ 
+
+  <img align="right" alt="Mateus-Gif" width="200px" src="https://media.giphy.com/media/8gwgQZR82xB2o/giphy.gif">
 </div>
   
   ##
